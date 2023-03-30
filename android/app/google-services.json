@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584275520806",
+    "project_id": "enricko-lelang",
+    "storage_bucket": "enricko-lelang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584275520806:android:6b85bdb53e9e2dfaf025e7",
+        "android_client_info": {
+          "package_name": "com.example.tampilan_lelang_ukk_jan_29_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584275520806-g5cg422h81d17br0qtoe94t8548lvfqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSZRNc2sgT7FjbDmIe3ETWbs1F2iFsu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584275520806-g5cg422h81d17br0qtoe94t8548lvfqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
